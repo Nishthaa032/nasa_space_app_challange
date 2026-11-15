@@ -1,0 +1,10 @@
+{
+  "before": "20260914",
+  "event": "20260926",
+  "followup": "20261008",
+  "window_pixels": 5,
+  "minimum_valid_neighbors": 20,
+  "change_threshold_db": -3.0,
+  "minimum_component_pixels": 9,
+  "reference": "data/raw/shinsui_rinkaku_kita-inbanuma_20260925/輪郭線.geojson"
+}

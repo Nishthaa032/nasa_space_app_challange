@@ -1,0 +1,22 @@
+[
+  {
+    "file": "data/archive/raw/opera/OPERA_L3_DSWx-HLS_T54SVE_20260913T012649Z_20260918T210416Z_S2B_30_v1.1_B01_WTR.tif",
+    "bytes": 88288,
+    "sha256": "bad73e01f8457392637187f130278ed50efe639eb9f24672cd3268b0c62525cf"
+  },
+  {
+    "file": "data/archive/raw/opera/OPERA_L3_DSWx-HLS_T54SVE_20260913T012649Z_20260918T210416Z_S2B_30_v1.1_B03_CONF.tif",
+    "bytes": 1167535,
+    "sha256": "4edd497a17786be3273960e5b3514f22020ba7a704dfaec25497b877d24fec12"
+  },
+  {
+    "file": "data/archive/raw/opera/OPERA_L3_DSWx-HLS_T54SVE_20261008T012701Z_20261010T180452Z_S2C_30_v1.1_B01_WTR.tif",
+    "bytes": 500517,
+    "sha256": "12e43c2d87e4b0dce122e5aaf5e49d8eb71e4ae0e4bcf170065204f906729c39"
+  },
+  {
+    "file": "data/archive/raw/opera/OPERA_L3_DSWx-HLS_T54SVE_20261008T012701Z_20261010T180452Z_S2C_30_v1.1_B03_CONF.tif",
+    "bytes": 825426,
+    "sha256": "674ae3575eb2d2fc8d1b3f505ec4bee2b51e31f274a77007171f7289e6f7ebd5"
+  }
+]

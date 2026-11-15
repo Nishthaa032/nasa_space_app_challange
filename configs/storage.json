@@ -1,0 +1,7 @@
+{
+  "archive_root": "data/archive",
+  "nisar_dir": "data/raw/nisar",
+  "opera_dir": "data/raw/opera",
+  "terrain_dir": "data/raw/terrain",
+  "note": "Raw archive paths; local processed data remain in data/. See reports/VALIDATION_RESULTS.md for current validation."
+}

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.sites/
+.sites-runtime/
+.sites-cache/
+.env
+.env.*

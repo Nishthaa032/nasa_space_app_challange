@@ -1,0 +1,11 @@
+{
+  "date": "20261008",
+  "seed": 42,
+  "trees": 200,
+  "min_samples_leaf": 5,
+  "max_depth": 12,
+  "thresholds": [0.3, 0.5, 0.7, 0.9],
+  "selection": "highest validation water F1; ties resolved by validation precision",
+  "former_test_role": "development diagnostic only; already inspected",
+  "candidates": ["original_rf", "unweighted_rf", "context_rf", "context_extra_trees"]
+}

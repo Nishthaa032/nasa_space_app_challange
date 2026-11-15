@@ -1,0 +1,22 @@
+{
+  "method": "Otsu intensity gate plus temporal decrease and component filtering",
+  "supervised_training": false,
+  "reference_used_to_fit": false,
+  "intensity_threshold_db": -7.2538161277771,
+  "change_threshold_db": -3.0,
+  "minimum_component_pixels": 9,
+  "classes": {
+    "0": "Other valid / unclassified",
+    "1": "Low backscatter on both dates (water proxy)",
+    "2": "Candidate new open water",
+    "3": "Baseline-dark to event-bright (recession proxy)",
+    "255": "No usable paired observation"
+  },
+  "limitations": [
+    "Not flood depth or prediction",
+    "No calibrated probability",
+    "No DEM or land-cover exclusion",
+    "HV cleaned and exported but not used in this baseline",
+    "Otsu assumes a useful intensity separation; scene-specific threshold needs scrutiny"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "20260105": {
+    "name": "NISAR_L2_PR_GCOV_009_118_D_071_2005_DHDH_M_20260105T092828_20260105T092903_P05023_N_F_J_001",
+    "date": "20260105",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_009_118_D_071_2005_DHDH_M_20260105T092828_20260105T092903_P05023_N_F_J_001/NISAR_L2_PR_GCOV_009_118_D_071_2005_DHDH_M_20260105T092828_20260105T092903_P05023_N_F_J_001.h5",
+    "cmr_id": "G4275125295-ASF",
+    "acquired": "2026-01-05T09:28:28.000Z",
+    "transferred_mb": 8.5,
+    "valid_percent": 98.92,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "74bda620aaccf743fb21f7a794f773a49ff08decad083b7c7316c97131aa9cc3",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  },
+  "20260306": {
+    "name": "NISAR_L2_PR_GCOV_014_118_D_071_2005_DHDH_M_20260306T092831_20260306T092906_P05023_N_F_J_001",
+    "date": "20260306",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_014_118_D_071_2005_DHDH_M_20260306T092831_20260306T092906_P05023_N_F_J_001/NISAR_L2_PR_GCOV_014_118_D_071_2005_DHDH_M_20260306T092831_20260306T092906_P05023_N_F_J_001.h5",
+    "cmr_id": "G4275142515-ASF",
+    "acquired": "2026-03-06T09:28:31.000Z",
+    "transferred_mb": 7.5,
+    "valid_percent": 98.92,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "49cd7d2de20f87401aa8979082f858f46821e63490a54ac69b5f61261aa88a9c",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  },
+  "20260423": {
+    "name": "NISAR_L2_PR_GCOV_018_118_D_071_2005_DHDH_M_20260423T092831_20260423T092906_P05023_N_F_J_001",
+    "date": "20260423",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_018_118_D_071_2005_DHDH_M_20260423T092831_20260423T092906_P05023_N_F_J_001/NISAR_L2_PR_GCOV_018_118_D_071_2005_DHDH_M_20260423T092831_20260423T092906_P05023_N_F_J_001.h5",
+    "cmr_id": "G4275208096-ASF",
+    "acquired": "2026-04-23T09:28:31.000Z",
+    "transferred_mb": 8.0,
+    "valid_percent": 98.92,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "68778df063bed1ca9b2081e01ea79f90d5492d69a3779588b79013223b048c8f",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  },
+  "20260517": {
+    "name": "NISAR_L2_PR_GCOV_020_118_D_071_2005_DHDH_M_20260517T092830_20260517T092905_P05023_N_F_J_001",
+    "date": "20260517",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_020_118_D_071_2005_DHDH_M_20260517T092830_20260517T092905_P05023_N_F_J_001/NISAR_L2_PR_GCOV_020_118_D_071_2005_DHDH_M_20260517T092830_20260517T092905_P05023_N_F_J_001.h5",
+    "cmr_id": "G4275248463-ASF",
+    "acquired": "2026-05-17T09:28:30.000Z",
+    "transferred_mb": 8.0,
+    "valid_percent": 98.92,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "42d2956ad1317da174b66a0b49bba70424f99285036952f3b63635b4a6ab7fe8",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  },
+  "20260622": {
+    "name": "NISAR_L2_PR_GCOV_023_118_D_071_2005_DHDH_M_20260622T092828_20260622T092903_P05023_N_F_J_002",
+    "date": "20260622",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_023_118_D_071_2005_DHDH_M_20260622T092828_20260622T092903_P05023_N_F_J_002/NISAR_L2_PR_GCOV_023_118_D_071_2005_DHDH_M_20260622T092828_20260622T092903_P05023_N_F_J_002.h5",
+    "cmr_id": "G4275296918-ASF",
+    "acquired": "2026-06-22T09:28:28.000Z",
+    "transferred_mb": 8.0,
+    "valid_percent": 98.78,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "dab77104472c11a3531194089156961273c58f82c0c98d62fd32e8d4aea93b2f",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  },
+  "20260704": {
+    "name": "NISAR_L2_PR_GCOV_024_118_D_071_2005_DHDH_M_20260704T092828_20260704T092902_P05023_N_F_J_001",
+    "date": "20260704",
+    "url": "https://nisar.asf.earthdatacloud.nasa.gov/NISAR/NISAR_L2_GCOV_PROVISIONAL_V1/NISAR_L2_PR_GCOV_024_118_D_071_2005_DHDH_M_20260704T092828_20260704T092902_P05023_N_F_J_001/NISAR_L2_PR_GCOV_024_118_D_071_2005_DHDH_M_20260704T092828_20260704T092902_P05023_N_F_J_001.h5",
+    "cmr_id": "G4245341702-ASF",
+    "acquired": "2026-07-04T09:28:28.000Z",
+    "transferred_mb": 6.25,
+    "valid_percent": 51.25,
+    "model_sha256": "69664a4e2c95ef577d077a3ff0465d32a6fedad455ee1fd7744d2047cc6d48ab",
+    "raster_sha256": "e4dee99a1c28b1965849584720b06baa3ee470337c8581fd27ec21f3fc7e283e",
+    "status": "Exploratory radar-only prediction; no independent validation on this date."
+  }
+}

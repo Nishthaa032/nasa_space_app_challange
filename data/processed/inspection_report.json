@@ -1,0 +1,76 @@
+{
+  "reference": "data/raw/shinsui_rinkaku_kita-inbanuma_20260925/\u8f2a\u90ed\u7dda.geojson",
+  "buffer_m": 2000,
+  "crs": "EPSG:32654",
+  "pixel_spacing_m": 20,
+  "grids_identical": true,
+  "common_HH_valid_percent": 96.18,
+  "layers": [
+    {
+      "date": "20260914",
+      "polarization": "HHHH",
+      "valid_percent": 96.67,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_030_118_D_071_2005_DHDH_M_20260914T092825_20260914T092859_P05023_N_F_J_001.h5"
+    },
+    {
+      "date": "20260914",
+      "polarization": "HVHV",
+      "valid_percent": 96.67,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_030_118_D_071_2005_DHDH_M_20260914T092825_20260914T092859_P05023_N_F_J_001.h5"
+    },
+    {
+      "date": "20260926",
+      "polarization": "HHHH",
+      "valid_percent": 96.18,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_031_118_D_071_2005_DHDH_M_20260926T092825_20260926T092900_P05023_N_F_J_001.h5"
+    },
+    {
+      "date": "20260926",
+      "polarization": "HVHV",
+      "valid_percent": 96.18,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_031_118_D_071_2005_DHDH_M_20260926T092825_20260926T092900_P05023_N_F_J_001.h5"
+    },
+    {
+      "date": "20261008",
+      "polarization": "HHHH",
+      "valid_percent": 100.0,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_032_118_D_071_2005_DHDH_M_20261008T092825_20261008T092900_P05023_N_F_J_001.h5"
+    },
+    {
+      "date": "20261008",
+      "polarization": "HVHV",
+      "valid_percent": 100.0,
+      "shape": [
+        483,
+        300
+      ],
+      "source": "NISAR_L2_PR_GCOV_032_118_D_071_2005_DHDH_M_20261008T092825_20261008T092900_P05023_N_F_J_001.h5"
+    }
+  ],
+  "limitations": [
+    "No flood classification or accuracy claim",
+    "GSI reference is September 25; event image is September 26",
+    "No speckle filter or terrain/land-cover exclusion applied beyond product masks",
+    "Baseline and follow-up conditions require interpretation"
+  ]
+}

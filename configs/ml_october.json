@@ -1,0 +1,7 @@
+{
+  "name": "october_surface_water_spatial_holdout",
+  "manifest": "data/manifests/opera_alternatives.json",
+  "label_dates": {"20261008": "20261008"},
+  "training_dates": ["20261008"],
+  "notes": "Only October 8 S2C optical data has usable labels. Other dates receive exploratory predictions only. Same-day optical and radar observations differ by approximately eight hours."
+}

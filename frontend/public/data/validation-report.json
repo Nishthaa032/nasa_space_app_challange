@@ -1,0 +1,59 @@
+{
+  "status": "evaluated",
+  "radar_date": "20261008",
+  "optical_date": "20261008",
+  "model_sha256": "b3f9b8d6c76701c299a305605e25fa09465fe1c7857594a76d066bf972547aba",
+  "threshold": 0.5,
+  "model_retrained": false,
+  "threshold_changed": false,
+  "partition": null,
+  "scope": "Separate 10 km by 10 km area north of training crop; same date and scene, local spatial transfer only",
+  "acquisition_gap_hours": 8,
+  "scored_class_counts_nonwater_water": [
+    192823,
+    3540
+  ],
+  "minimum_pixels_per_class": 100,
+  "optical_class_counts_in_crop": {
+    "0": 212725,
+    "1": 5222,
+    "2": 8905,
+    "252": 252,
+    "253": 22896
+  },
+  "usable_label_pixels_in_crop": 198127,
+  "usable_label_percent_in_crop": 79.2508,
+  "finite_radar_feature_percent": 99.2,
+  "finite_terrain_feature_percent": 100.0,
+  "finite_all_feature_percent": 98.4064,
+  "scored_percent_of_crop": 78.54520000000001,
+  "scored_area_km2": 78.5452,
+  "metrics": {
+    "pixels": 196363,
+    "confusion_matrix_nonwater_water": [
+      [
+        192549,
+        274
+      ],
+      [
+        175,
+        3365
+      ]
+    ],
+    "precision": 0.9247045891728497,
+    "recall": 0.9505649717514124,
+    "f1": 0.937456470260482,
+    "iou": 0.8822758259045621
+  },
+  "limitations": [
+    "Single geographic area; not cross-region validation",
+    "Optical and radar acquisitions differ by about 8 hours",
+    "Optical labels are algorithmic proxies, not human-verified ground truth",
+    "Same terrain context as training can favor persistent water geography",
+    "Reference clear-pixel subset may not represent cloudy, mixed or vegetated areas",
+    "Retrospective surface-water mapping experiment, not forecasting",
+    "This evaluates surface water, not new inundation or flood depth",
+    "Adjacent frame 070 uses 4005_DHDH_A rather than frame 071's 2005_DHDH_M; native 10 m pixels averaged to 20 m in linear power. Mode difference remains a validation limitation."
+  ],
+  "evaluation_context": "Same northern extent and frozen model; expanded coverage from a newly downloaded adjacent frame. Earlier limited-coverage result remains recorded."
+}

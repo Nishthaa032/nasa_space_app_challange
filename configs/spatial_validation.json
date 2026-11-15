@@ -1,0 +1,28 @@
+{
+  "radar_date": "20261008",
+  "optical_date": "20261008",
+  "label_links": {
+    "B01_WTR": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T54SVE_20261008T012701Z_20261010T180452Z_S2C_30_v1.1_B01_WTR.tif",
+    "B03_CONF": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T54SVE_20261008T012701Z_20261010T180452Z_S2C_30_v1.1_B03_CONF.tif"
+  },
+  "partition": null,
+  "minimum_pixels_per_class": 100,
+  "model_sha256": "b3f9b8d6c76701c299a305605e25fa09465fe1c7857594a76d066bf972547aba",
+  "model_path": "models/development_model.joblib",
+  "bounds_epsg32654": [
+    428300,
+    3968880,
+    438300,
+    3978880
+  ],
+  "training_crop_bounds_epsg32654": [
+    430300,
+    3957220,
+    436300,
+    3966880
+  ],
+  "gap_from_training_m": 2000,
+  "scope": "Separate 10 km by 10 km area north of training crop; same date and scene, local spatial transfer only",
+  "acquisition_gap_hours": 8,
+  "status": "protocol fixed before extracting regional radar or labels"
+}
